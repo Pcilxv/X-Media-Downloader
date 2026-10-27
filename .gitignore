@@ -1,0 +1,16 @@
+.gradle/
+**/build/
+local.properties
+_devtools/
+签名密钥/
+*.jks
+*.keystore
+.kotlin/
+__pycache__/
+.env
+.env.*
+*.log
+*.p12
+*.pfx
+*.apk
+!安装包/*.apk
